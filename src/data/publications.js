@@ -1,6 +1,15 @@
 // TODO Add a couple lines about each project
 const data = [
   {
+    title: 'Diverse Database and Machine Learning Model to Narrow the Generalization Gap in RNA Structure Prediction',
+    subtitle: '',
+    link: 'https://www.biorxiv.org/content/10.1101/2024.01.24.577093v4',
+    image: '/images/publications/Harvard-RNA-structure.png',
+    date: '2024-05-03',
+    desc:
+      'We adapted state-of-the-art algorithms from protein folding to predict secondary RNA structure, thereby ameliorating the generalization gap.',
+  },
+  {
     title: 'A nanoelectronics-blood-based diagnostic biomarker for myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS)',
     subtitle: '',
     link: 'https://www.pnas.org/doi/10.1073/pnas.1901274116',

@@ -154,7 +154,7 @@ const skills = [
   },
   {
     title: 'Android (Java + Kotlin)',
-    competency: 5,
+    competency: 4,
     category: ['Languages'],
   },
   {

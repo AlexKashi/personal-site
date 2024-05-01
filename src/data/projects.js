@@ -1,6 +1,15 @@
 // TODO Add a couple lines about each project
 const data = [
   {
+    title: 'Dubbles.ai: AI Generated videos of your favorite stars',
+    subtitle: '',
+    link: 'https://www.dubbles.ai/',
+    video: '/resources/projects/videos/Dubbles-ai-demo.mp4',
+    date: '2024-04-20',
+    desc:
+      'Introducing Dubbles: The world’s first AI-powered celebrity video generator. Create funny videos to prank your friends, make them laugh, and go viral.',
+  },
+  {
     title: 'Compressing and Accelerating Stable Diffusion',
     subtitle: 'Harvard CS242: Computing as Scale Final Project',
     link: '/resources/projects/CS_242_Final_Project.pdf',
@@ -106,7 +115,7 @@ const data = [
   },
   {
     title: 'Galaxy Simulator',
-    subtitle: 'AM05: Final Project',
+    subtitle: 'AM205: Final Project',
     video: '/resources/projects/videos/Harvard-AM205-demo.mp4',
     link: '/resources/projects/MIT-VNAV-final-paper.pdf',
     date: '2021-12-17',
