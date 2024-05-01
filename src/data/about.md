@@ -1,16 +1,20 @@
 
 # Intro
-I am a [Harvard Computational Science and Engineering](https://www.seas.harvard.edu/applied-computation/graduate-programs/masters-computational-science-and-engineering) masters student, a Staff Software Engineer at [Lucid Motors](https://www.lucidmotors.com/), and the founder and CEO of Spur, an app that connects people in the most fun and meaningful way possible.
+I am a Staff Software Engineer at [Lucid Motors](https://www.lucidmotors.com/) and a graduate of the [Harvard Computational Science and Engineering](https://www.seas.harvard.edu/applied-computation/graduate-programs/masters-computational-science-and-engineering) master's program. I have founded companies, leading them from conception through launch. My applications have scaled to over 100,000 users, accumulating several hundred thousand downloads. I have advanced the state of the art in AI through my research at Harvard and Stanford, and I am passionate about enabling the next generation of AI services and applications.
+
+
+<!-- # generic? -->
 
 # Currently
-As a Staff Software Engineer at Lucid Motors, I am passionate about developing innovative technologies that have the potential to revolutionize the automotive industry. I have the opportunity to work on cutting-edge projects that utilize my skills in software engineering and technology to make a real impact.
+I am a Staff Software Engineer at Lucid Motors and a Harvard graduate with a master’s in Computational Science and Engineering. My education and experience have equipped me with advanced technical skills, enabling me to lead projects that integrate theory and practice to solve complex technology challenges.
 
-In addition to my work at Lucid Motors, I am also the founder and CEO of Spur, where I have learned invaluable skills in team building, management, culture shaping, and relationship building with customers. I have gained a deep understanding of user needs, and have been able to develop products that effectively solve their problems and create meaningful connections for them.
+My tech journey started with a passion for using software to tackle complex problems and enhance lives. At Harvard, I specialized in AI and machine learning, advancing the field with innovative research. This work deepened my expertise and honed my analytical skills, essential for creating scalable and efficient solutions.
 
-As a full-stack engineer, I have become proficient in a variety of programming languages and technologies, including Kotlin and Swift for frontend development and Dynamodb and Elasticsearch for backend development. I have successfully designed and implemented reliable and scalable systems for my projects, hosted on the cloud infrastructure of AWS.
+At Lucid Motors, I used my skills to lead the development of an advanced application that works smoothly with our electric vehicles' systems. This project focused on improving the interaction between software and hardware, aiming to enhance both user experience and vehicle performance. The application features keyless entry and customized navigation for electric vehicles, and its success reflects my ability to lead a team and innovate.
 
-With my extensive skills and experience in software engineering, team management, and product development, I am a highly valuable asset to any organization. I am committed to effectively combining technical expertise with a deep understanding of user needs and preferences, making me a true leader in the tech industry.
+Beyond technical skills, my entrepreneurial spirit led me to found my own company, Spur, where I took the product from conception to launch. Managing Spur taught me invaluable lessons in building and leading teams, understanding customer needs, and executing complex projects under tight deadlines. Our application reached over 100,000 users and several hundred thousand downloads, highlighting my capability to scale technologies effectively.
 
+I am particularly passionate about the potential of AI to revolutionize industries. My experience ranges from academic research at prestigious institutions like Harvard and Stanford to practical applications in the tech industry. I am eager to bring this passion to a team that values bold ideas and is committed to pushing the boundaries of what technology can achieve.
 
 <!-- # Some history -->
 <!-- I grew up in Sunnyvale, CA -->
@@ -20,9 +24,11 @@ With my extensive skills and experience in software engineering, team management
     - Weight training
     - Running
     - Spinning
+    - Swimming
 - Sports 
     - Water polo 
     - Swimming
+    - Triathalon
 - Travel
 - Photography
 - Computational photography
