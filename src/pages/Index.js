@@ -10,10 +10,10 @@ const Index = () => (
     <article className="post" id="index">
       <header>
         <div className="title">
-          <h2 data-testid="heading"><Link to="/">Welcome!</Link></h2>
-          {/* <p>
-            Welcome to my website.
-          </p> */}
+          <h2 data-testid="heading"><Link to="/">Welcome to A Journey Through My Projects and Interests</Link></h2>
+          <p>
+            What started as a challenge to master JavaScript and React has evolved into a valuable resource. Crafted with innovation in mind, yet not to be taken too seriously.
+          </p>
         </div>
       </header>
       <p>Please feel free to read more <Link to="/about">about me</Link>,
