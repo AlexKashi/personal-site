@@ -28,6 +28,7 @@ const positions = [
     link: 'https://www.rouskinlab.com/',
     daterange: 'May 2023 - Aug 2023',
     points: [
+      
       'Advanced protein folding algorithms to predict secondary RNA structures, enhancing prediction accuracy.',
       'Curated a comprehensive database of over 300,000 secondary structures from various sources.',
       'Developed training algorithms for synthetic data, significantly closing the generalization gap.',
@@ -40,8 +41,8 @@ const positions = [
     daterange: 'January 2019 - December 2022',
     points: [
       'Founded and architected a native social media app for iOS and Android, attracting over 100,000 users.',
-      'Admitted into the Harvard Innovation Labs Venture Program and selected for the semester-long Harvard Buisness School accelerator course, Field X.',
-      'Crafted and executed a comprehensive go-to-market strategy, pitch deck and business plan, presented to angel investors and venture capitalists to secure pre-seed funding.',
+      'Admitted into the Harvard Innovation Labs Venture Program and selected for the semester-long Harvard Business School accelerator course, Field X.',
+      'Crafted and executed a comprehensive go-to-market strategy, pitch deck, and business plan, which were presented to angel investors and venture capitalists to secure pre-seed funding.',
       'Engineered a microservice-based backend utilizing AWS technologies including DynamoDB, Elasticsearch, S3, Lambda, EC2, Kinesis, and Rekognition.',
       'Established a complete DevOps pipeline for streamlined deployment, analytics, logging, and operational management.',
       'Directed a multidisciplinary team of over five professionals, overseeing projects spanning marketing, competitive analysis, and design.',
@@ -54,7 +55,7 @@ const positions = [
     daterange: 'Sep 2017 - Sep 2021',
     points: [
       'Devised the first classifier for Myalgic Encephalomyelitis (ME), published in PNAS.',
-      'Engineered cost-effective hardware and embedded software (C) for an impedance measurement device, reducing costs by approximately 98%.',
+      'Engineered cost-effective hardware and embedded software in C for an impedance measurement device, reducing costs by approximately 98%.',
       'Authored the statistical theory underpinning the metabolic origin of ME, published in Diagnostics.',
       'Led a team specializing in semantic segmentation of cell images, slashing computation time by 94% while improving accuracy by 2%.',
       'Supervised computer vision and machine learning interns, supported by the Stanford Bio-X program.',
@@ -78,7 +79,7 @@ const positions = [
     daterange: 'May 2016 - Aug 2016',
     points: [
       'Developed a gaze tracking system using deep learning and computer vision techniques, designed to be effective even when glasses obstruct the view.',
-      'Solving object detection challenges, training the machine learning model, creating a data collection program, and developing an API for real-time gaze tracking.',
+      'Achieved all key milestones by enhancing object detection, training the machine learning model, establishing a data collection application, and developing an API for real-time gaze tracking.',
       'Successfully launched the system within the expected timeline and validated the concept, proving that no additional hardware was necessary.',
     ],
   },
