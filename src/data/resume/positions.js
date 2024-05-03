@@ -5,11 +5,11 @@ const positions = [
     link: 'https://www.lucidmotors.com/',
     daterange: 'May 2022 - Present',
     points: [
-      'Architected from inseption the next-generation iOS app for Lucid Motors, incorporating cutting-edge features and delivering superior performance, completed ahead of schedule.',
-      'Developed a sophisticated keyless entry system using Bluetooth and location APIs, enhancing vehicle security and user convenience.',
-      'Engineered an innovative Apple Maps integration tailored for electric vehicles, optimizing routing algorithms and incorporating detailed map annotations.',
-      'Collaborated with senior technical leaders and cross-functional teams to ensure seamless integration of advanced technologies and third-party APIs, enhancing overall app functionality and reliability.',
-    ],
+      'As Lead Architect, I developed the next-generation native mobile app from the ground up, introducing previously unachievable features and improved performance, completed ahead of schedule.',
+      'Developed a keyless entry system using Bluetooth and location APIs, enhancing reliability and user convenience.',
+      'I integrated an interactive 3D model into the app, taking it from concept to production. This enhancement significantly improved the app\'s aesthetics and user engagement.',
+      'Directly collaborated with the Senior VP of Digital to align development with Lucid’s strategic initiatives, maximizing customer impact.',
+    ]
   },
   {
     company: 'Dubbles.ai',
@@ -36,17 +36,16 @@ const positions = [
   },
   {
     company: 'Spur',
-    position: 'Founder, CEO',
+    position: 'Founder, CEO/CTO',
     link: 'https://spurdating.com',
     daterange: 'January 2019 - December 2022',
     points: [
-      'Conceptualized and built a native social media application for iOS and Android',
-      'Accepted into Harvard Innovation Labs Venture Program',
-      'Selected by HBS Prof. Randy Cohen as one of the few non-HBS-founded company featured in HBS Field X',
-      'Developed and executed a go-to-market strategy, pitch deck, and business plan, shared with angels investors and VCs',
-      'Designed production micro-service based backend with: Dynamodb, Elasticsearch, S3, Lambda, EC2, Kinesis, Rekognition, etc. on AWS.',
-      'Built dev-ops around: data collection, feature engineering, research, strategy, backtesting, deployment, and reporting.',
-      'Worked on everything. Managed a team of more than 5 people in marketing, competitive analysis, and design',
+      'Conceptualized and architected a native social media application for both iOS and Android, attracting over 100,000 users.',
+      'Admitted into the Harvard Innovation Labs Venture Program and selected for the semester-long Harvard Buisness School accelerator course, Field X.',
+      'Crafted and executed a comprehensive go-to-market strategy, pitch deck and business plan, presented to angel investors and venture capitalists to secure pre-seed funding.',
+      'Engineered a microservice-based backend utilizing AWS technologies including DynamoDB, Elasticsearch, S3, Lambda, EC2, Kinesis, and Rekognition.',
+      'Developed a complete DevOps pipeline covering deployment, analytics, logging, and backup management for seamless operations.',
+      'Led a multidisciplinary team of over five professionals, overseeing projects spanning marketing, competitive analysis, and design.',
     ],
   },
   {
@@ -56,10 +55,10 @@ const positions = [
     daterange: 'Sep 2017 - Sep 2021',
     points: [
       'Devised the first classifier for Myalgic Encephalomyelitis (ME), published in PNAS.',
-      'Designed hardware and embedded software, in C, to control a low-cost impedance measurement device, securing a cost savings of ~98%',
-      'Created the statistical theory for the metabolic origin of ME, published in Diagnostics',
-      'Led a team that analyzes images of cells with semantic segmentation, reducing computation time by 94% with a 2% increase in accuracy. Publication in preparation',
-      'Managing summer interns in ML & CV funded by the Stanford Bio-X program',
+      'Designed hardware and embedded software, written in C, to regulate a low-cost impedance measurement device, achieving a cost reduction of approximately 98%.',
+      'Developed the statistical theory underpinning the metabolic origin of ME, published in Diagnostics.',
+      'Led a team specializing in semantic segmentation of cell images, slashing computation time by 94% while improving accuracy by 2%.',
+      'Supervised summer interns specializing in Machine Learning (ML) and Computer Vision (CV), supported by the Stanford Bio-X program.',
     ],
   },
   {
@@ -68,9 +67,9 @@ const positions = [
     link: 'https://intel.com',
     daterange: 'Jun 2017 - Sep 2017',
     points: [
-      'Improved drivers for I2C and UART interfaces, including touch screens and cameras',
-      'Debugged BIOS ASL code, added features and configured new peripherals',
-      'Programmed firmware for x86 based R&D devices',
+      'Enhanced drivers for I2C and UART interfaces, extending support to touch screens and cameras.',
+      'Debugged BIOS ASL code, implemented additional features, and configured new peripherals.',
+      'Developed firmware for x86-based R&D devices.',
     ],
   },
   {
@@ -79,9 +78,9 @@ const positions = [
     link: 'https://zSpace.com',
     daterange: 'May 2016 - Aug 2016',
     points: [
-      'Designed a gaze tracking system to drive insights on user engagement. Utilized deep learning and CV to make it function even when eyes are obscured (e.g. by 3D glasses)',
-      'Project scope: solved object detection, trained the ML model, created a data collection program, and built an API to support gaze tracking in real-time',
-      'Launched within the expected time frame, without requiring additional hardware',
+      'Developed a gaze tracking system using deep learning and computer vision techniques, designed to be effective even when glasses obstruct the view.',
+      'Solving object detection challenges, training the machine learning model, creating a data collection program, and developing an API for real-time gaze tracking.',
+      'Successfully launched the system within the expected timeline and validated the concept, proving that no additional hardware was necessary.',
     ],
   },
   {
@@ -90,9 +89,9 @@ const positions = [
     link: 'https://intel.com',
     daterange: 'May 2015 - Aug 2015',
     points: [
-      'Architected a MapReduce framework for local big data processing on Android devices',
-      'Parallelized the framework using pthreads in native C/C++ using the Android NDK',
-      'Created an application for my framework by implementing k-means clustering to preprocess data locally before sending the result to the server',
+      'Designed a MapReduce framework for local big data processing on Android devices.',
+      'Parallelized the framework using pthreads in native C/C++ with the Android NDK.',
+      'Developed an application for the framework, implementing k-means clustering to preprocess data locally before transmitting results to the server.',
     ],
   },
 ];
