@@ -5,10 +5,10 @@ const positions = [
     link: 'https://www.lucidmotors.com/',
     daterange: 'May 2022 - Present',
     points: [
-      'As Lead Architect, I developed the next-generation native mobile app from the ground up, introducing previously unachievable features and improved performance, completed ahead of schedule.',
-      'Developed a keyless entry system using Bluetooth and location APIs, enhancing reliability and user convenience.',
-      'I integrated an interactive 3D model into the app, taking it from concept to production. This enhancement significantly improved the app\'s aesthetics and user engagement.',
-      'Directly collaborated with the Senior VP of Digital to align development with Lucid’s strategic initiatives, maximizing customer impact.',
+      'Led the development of the next-generation native mobile app from the ground up, introducing previously unachievable features and enhanced performance, completed ahead of schedule.',
+      'Designed a keyless entry system using Bluetooth and location APIs, enhancing reliability and user convenience.',
+      'Integrated an interactive 3D model into the app, transitioning it from concept to production, thereby boosting aesthetics and user engagement.',
+      'Worked directly with the Senior VP of Digital to ensure development efforts aligned with Lucid\'s strategic initiatives, maximizing customer impact.',
     ]
   },
   {
@@ -17,9 +17,9 @@ const positions = [
     link: 'https://dubbles.ai/',
     daterange: 'December 2023 - Present',
     points: [
-      'Designed and launched an innovative AI-powered celebrity cloning app, enabling users to create and share personalized celebrity videos.',
-      'Implemented advanced machine learning pipeline to ensure accurate facial recognition and voice synthesis for realistic celebrity impersonations.',
-      'Managed a cross-functional team through the project lifecycle, from conceptual design to successful deployment and scaling, resulting in significant user engagement and virality.',
+      'Designed and launched an AI-powered celebrity cloning app, allowing users to create and share personalized celebrity videos.',
+      'Engineered an advanced machine learning pipeline for precise facial recognition and voice synthesis, ensuring realistic celebrity impersonations.',
+      'Led a cross-functional team through all phases of development, from initial design to deployment and scaling, achieving significant user engagement and virality.',
     ],
   },
   {
@@ -28,10 +28,9 @@ const positions = [
     link: 'https://www.rouskinlab.com/',
     daterange: 'May 2023 - Aug 2023',
     points: [
-      'Adapted state-of-the-art protein folding algorithms to predict secondary RNA structures.',
-      'Curated a new database comprising over 300,000 secondary structures from multiple sources.',
-      'Developed algorithms for synthetic training.',
-      'Ameliorated the generalization gap, achieving state-of-the-art performance.',
+      'Advanced protein folding algorithms to predict secondary RNA structures, enhancing prediction accuracy.',
+      'Curated a comprehensive database of over 300,000 secondary structures from various sources.',
+      'Developed training algorithms for synthetic data, significantly closing the generalization gap.',
     ],
   },
   {
@@ -40,12 +39,12 @@ const positions = [
     link: 'https://spurdating.com',
     daterange: 'January 2019 - December 2022',
     points: [
-      'Conceptualized and architected a native social media application for both iOS and Android, attracting over 100,000 users.',
+      'Founded and architected a native social media app for iOS and Android, attracting over 100,000 users.',
       'Admitted into the Harvard Innovation Labs Venture Program and selected for the semester-long Harvard Buisness School accelerator course, Field X.',
       'Crafted and executed a comprehensive go-to-market strategy, pitch deck and business plan, presented to angel investors and venture capitalists to secure pre-seed funding.',
       'Engineered a microservice-based backend utilizing AWS technologies including DynamoDB, Elasticsearch, S3, Lambda, EC2, Kinesis, and Rekognition.',
-      'Developed a complete DevOps pipeline covering deployment, analytics, logging, and backup management for seamless operations.',
-      'Led a multidisciplinary team of over five professionals, overseeing projects spanning marketing, competitive analysis, and design.',
+      'Established a complete DevOps pipeline for streamlined deployment, analytics, logging, and operational management.',
+      'Directed a multidisciplinary team of over five professionals, overseeing projects spanning marketing, competitive analysis, and design.',
     ],
   },
   {
@@ -55,10 +54,10 @@ const positions = [
     daterange: 'Sep 2017 - Sep 2021',
     points: [
       'Devised the first classifier for Myalgic Encephalomyelitis (ME), published in PNAS.',
-      'Designed hardware and embedded software, written in C, to regulate a low-cost impedance measurement device, achieving a cost reduction of approximately 98%.',
-      'Developed the statistical theory underpinning the metabolic origin of ME, published in Diagnostics.',
+      'Engineered cost-effective hardware and embedded software (C) for an impedance measurement device, reducing costs by approximately 98%.',
+      'Authored the statistical theory underpinning the metabolic origin of ME, published in Diagnostics.',
       'Led a team specializing in semantic segmentation of cell images, slashing computation time by 94% while improving accuracy by 2%.',
-      'Supervised summer interns specializing in Machine Learning (ML) and Computer Vision (CV), supported by the Stanford Bio-X program.',
+      'Supervised computer vision and machine learning interns, supported by the Stanford Bio-X program.',
     ],
   },
   {
