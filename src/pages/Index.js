@@ -12,9 +12,9 @@ const Index = () => (
         <div className="title">
           <h2 data-testid="heading"><Link to="/">Welcome to A Journey Through My Projects and Interests</Link></h2>
           <p>
-          What began as a challenge to master web development has evolved
-          into a valuable resource, crafted with thoughtful design
-          and a touch of lightheartedness.
+            What began as a challenge to master web development has evolved
+            into a valuable resource, crafted with thoughtful design
+            and a touch of lightheartedness.
           </p>
         </div>
       </header>
