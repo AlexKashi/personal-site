@@ -9,7 +9,7 @@ const positions = [
       'Designed a keyless entry system using Bluetooth and location APIs, enhancing reliability and user convenience.',
       'Integrated an interactive 3D model into the app, transitioning it from concept to production, thereby boosting aesthetics and user engagement.',
       'Worked directly with the Senior VP of Digital to ensure development efforts aligned with Lucid\'s strategic initiatives, maximizing customer impact.',
-    ]
+    ],
   },
   {
     company: 'Dubbles.ai',
@@ -28,8 +28,7 @@ const positions = [
     link: 'https://www.rouskinlab.com/',
     daterange: 'May 2023 - Aug 2023',
     points: [
-      
-      'Advanced protein folding algorithms to predict secondary RNA structures, enhancing prediction accuracy.',
+      'Adapted models to predict protien structures to predict secondary RNA structures, enhancing prediction accuracy.',
       'Curated a comprehensive database of over 300,000 secondary structures from various sources.',
       'Developed training algorithms for synthetic data, significantly closing the generalization gap.',
     ],
