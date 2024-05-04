@@ -25,7 +25,7 @@ const About = () => (
         <div className="title">
           <h2 data-testid="heading" style={{ 'line-height': 1, marginBottom: 15 }}><Link to="/about">About Alex</Link></h2>
           <p>in {count + 3} words</p>
-          <h3 style={{ 'line-height': 40 }}> Resorcefull ○ tenacious ○ innovative</h3>
+          <h3 style={{ 'line-height': 40 }}> Resorceful ○ Tenacious ○ Innovative</h3>
         </div>
       </header>
       <ReactMarkdown

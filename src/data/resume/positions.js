@@ -28,7 +28,7 @@ const positions = [
     link: 'https://www.rouskinlab.com/',
     daterange: 'May 2023 - Aug 2023',
     points: [
-      'Adapted models to predict protien structures to predict secondary RNA structures, enhancing prediction accuracy.',
+      'Adapted protein structure prediction models to analyze RNA secondary structures, achieving state-of-the-art F1 score performance.',
       'Curated a comprehensive database of over 300,000 secondary structures from various sources.',
       'Developed training algorithms for synthetic data, significantly closing the generalization gap.',
     ],
