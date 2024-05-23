@@ -58,6 +58,15 @@ const data = [
       + 'to determine the advantages and disadvantages of each approach.',
   },
   {
+    title: 'Spur Dating: Make the first move in the most fun way possible using Pops',
+    subtitle: '',
+    link: 'https://www.spurdating.com/',
+    video: '/resources/projects/videos/spur-dating-pop-demo.mp4',
+    date: '2022-11-11',
+    desc:
+      'Pops allow you to react to peoples profiles with the functionality of an Instagram story. Add stickers text and music, to make inject humor.',
+  },
+  {
     title: 'Evaluation of Optimal Decision Making with Dead-ends in High-Risk Environments',
     subtitle: 'Stats 234: Sequential Decision Making Final Project',
     link: '/resources/projects/Harvard-STATS-234-final-paper.pdf',
