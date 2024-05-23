@@ -58,13 +58,13 @@ const data = [
       + 'to determine the advantages and disadvantages of each approach.',
   },
   {
-    title: 'Spur Dating: Make the first move in the most fun way possible using Pops',
+    title: 'Spur Dating: Innovating the First Move with Pops',
     subtitle: '',
     link: 'https://www.spurdating.com/',
     video: '/resources/projects/videos/spur-dating-pop-demo.mp4',
     date: '2022-11-11',
     desc:
-      'Pops allow you to react to peoples profiles with the functionality of an Instagram story. Add stickers text and music, to make inject humor.',
+      'Invented the "Pops" feature, enabling users to react to profiles with Instagram story-like functionality, including stickers, text, and music to add humor, creativity, and spur a connection.',
   },
   {
     title: 'Evaluation of Optimal Decision Making with Dead-ends in High-Risk Environments',
