@@ -1,5 +1,4 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
 
 import Main from '../layouts/Main';
 
@@ -34,7 +33,12 @@ const Resume = () => (
             {/* <Link to="resume">Resume </Link> */}
             <span to="">
               Resume{' '}
-              <Link to="/resume/pdf" style={{ color: '#1E90FF' }}>(PDF)</Link>
+              <a
+                href="https://drive.google.com/file/d/16KmiwvlUGFqliQdUNhlCTq41e2PpekWW/view"
+                style={{ color: '#1E90FF' }}
+              >
+                (PDF)
+              </a>
             </span>
           </h2>
           <div className="link-container">

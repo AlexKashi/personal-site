@@ -27,7 +27,7 @@ const App = () => (
         <Route path="/publications" component={Publications} />
         <Route path="/contact" component={Contact} />
         <Route path="/resume" component={Resume} />
-        <Route path="/resume/pdf" element={ResumePDF} />
+        <Route path="/resume/pdf" element={<ResumePDF />} />
         <Route component={NotFound} status={404} />
       </Switch>
     </Suspense>
