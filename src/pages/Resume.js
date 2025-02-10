@@ -25,19 +25,23 @@ const sections = [
 const Resume = () => (
   <Main
     title="Resume"
-    description="Alex Kashi's Resume. Staff Software Engineer & AI Researcher"
+    description="Alex Kashi Resume | ML Algo Eng – Perception, Self-Driving"
   >
     <article className="post" id="resume">
       <header>
         <div className="title">
-          <h2 data-testid="heading"><Link to="resume">Resume</Link></h2>
+          <h2 data-testid="heading">
+            <Link to="resume">Resume </Link>
+            <span to="">
+              <Link to="/resume/pdf" style={{ color: '#1E90FF' }}>(PDF)</Link>
+            </span>
+          </h2>
           <div className="link-container">
             {sections.map((sec) => (
               <h4 key={sec}>
                 <a href={`#${sec.toLowerCase()}`}>{sec}</a>
               </h4>))}
           </div>
-
         </div>
       </header>
       <Education data={degrees} />
