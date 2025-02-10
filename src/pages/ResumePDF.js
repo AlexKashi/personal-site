@@ -1,12 +1,15 @@
 // ResumePDF.js
 
 import { useEffect } from 'react';
+// import { Route } from 'react-router-dom';
 
 function ResumePDF() {
+  // const navigate = useNavigate();
+
   useEffect(() => {
-    window.location.href = 'https://drive.google.com/file/d/16KmiwvlUGFqliQdUNhlCTq41e2PpekWW/view';
+    window.location.replace('https://drive.google.com/file/d/16KmiwvlUGFqliQdUNhlCTq41e2PpekWW/view');
   }, []);
-  return null; // No need to return anything since it's just a redirect
+  return null;
 }
 
 export default ResumePDF;

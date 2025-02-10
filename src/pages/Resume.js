@@ -30,9 +30,10 @@ const Resume = () => (
     <article className="post" id="resume">
       <header>
         <div className="title">
-          <h2 data-testid="heading">
-            <Link to="resume">Resume </Link>
+          <h2>
+            {/* <Link to="resume">Resume </Link> */}
             <span to="">
+              Resume{' '}
               <Link to="/resume/pdf" style={{ color: '#1E90FF' }}>(PDF)</Link>
             </span>
           </h2>
