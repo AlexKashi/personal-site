@@ -30,11 +30,10 @@ const Resume = () => (
       <header>
         <div className="title">
           <h2>
-            {/* <Link to="resume">Resume </Link> */}
             <span to="">
               Resume{' '}
               <a
-                href="https://drive.google.com/file/d/16KmiwvlUGFqliQdUNhlCTq41e2PpekWW/view"
+                href={`${process.env.PUBLIC_URL}/resources/Alex_Kashi_CV.pdf`}
                 style={{ color: '#1E90FF' }}
               >
                 (PDF)

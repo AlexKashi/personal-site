@@ -1,6 +1,7 @@
 
 # Intro
-I am a Staff Software Engineer at [Lucid Motors](https://www.lucidmotors.com/) and a graduate of the [Harvard Computational Science and Engineering](https://www.seas.harvard.edu/applied-computation/graduate-programs/masters-computational-science-and-engineering) master's program. I have founded companies, leading them from conception through launch. My applications have scaled to over 100,000 users, accumulating several hundred thousand downloads. I have advanced the state of the art in AI through my research at Harvard and Stanford, and I am passionate about enabling the next generation of AI services and applications.
+I build things that push the boundaries of AI, perception systems, and mobile development. Whether it’s teaching self-driving cars how to see, making AI-generated videos a reality, or optimizing real-time video streaming, I love tackling hard technical problems and turning them into real products. Right now, I’m working as a **Senior Perception Engineer**, focusing on making autonomous vehicles smarter with AI and computer vision. Before that, I founded **Dubbles**, an AI-powered text-to-video app that hit **350,000+ downloads**, proving that people really do want AI to do their creative work for them. I’ve also designed **AI classifiers for medical diagnostics**, with one of my models published in **PNAS** (and cited **89 times!**). Somewhere along the way, I got deep into **iOS development, WebRTC, and AWS**, so if you ever need to make something **fast, scalable, and AI-powered**, I’m your guy.  
+
 
 
 <!-- # Some History
@@ -39,7 +40,6 @@ I am a Staff Software Engineer at [Lucid Motors](https://www.lucidmotors.com/) a
 # Passions
 - Kaizen - continuous improvement
 - Robotics and AI
-- Wanderlust
 - Live music
 - [Good design](/)
 - Space ([James Webb Space Telescope](https://www.jwst.nasa.gov/))
@@ -56,8 +56,13 @@ I am a Staff Software Engineer at [Lucid Motors](https://www.lucidmotors.com/) a
 - Hungary 🇭🇺
 - Puerto Rico 🇵🇷
 - France 🇫🇷
+- Monaco 🇲🇨
 - Serbia 🇷🇸
 - Netherlands 🇳🇱
+- Iceland 🇮🇸
+- Ibiza 🇪🇸
+- United Kingdom 🇬🇧
+- Italy 🇮🇹
 
 # Fun facts
 - Highly flexible

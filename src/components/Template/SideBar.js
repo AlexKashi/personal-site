@@ -19,8 +19,11 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Alex. I like building things.
-        I am a Staff Software Engineer and a <a href="https://www.seas.harvard.edu/applied-computation/graduate-programs/masters-computational-science-and-engineering">Harvard CSE</a> alumnus based in the Bay Area, specializing in the development of innovative applications and AI research.
+      <p>Hi, I&apos;m Alex. A Machine Learning Algorithm Engineer and
+        Software Engineer based in the Bay Area,
+        I push the boundaries of perception for self-driving
+        cars and generative AI media for commercial and consumer use.
+        I studied Computer Science at Harvard (CSE) and EECS at Berkeley.
       </p>
       <ul className="actions">
         <li>
