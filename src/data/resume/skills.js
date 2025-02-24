@@ -2,236 +2,76 @@
 // Data Engineering, Data Science, ML Engineering, ... ?
 
 const skills = [
-  {
-    title: 'Javascript',
-    competency: 3,
-    category: ['Web Development', 'Languages', 'Javascript'],
-  },
-  {
-    title: 'Node.JS',
-    competency: 3,
-    category: ['Web Development', 'Javascript'],
-  },
-  {
-    title: 'Leadership',
-    competency: 5,
-    category: ['Concepts'],
-  },
-  {
-    title: 'React',
-    competency: 2,
-    category: ['Web Development', 'Javascript'],
-  },
-  {
-    title: 'Bash',
-    competency: 4,
-    category: ['Tools', 'Languages'],
-  },
-  {
-    title: 'Amazon Web Services',
-    competency: 4,
-    category: ['Web Development', 'Tools'],
-  },
-  {
-    title: 'Natural Language Processing',
-    competency: 4,
-    category: ['Concepts'],
-  },
-  {
-    title: 'DynamodDB',
-    competency: 4,
-    category: ['Web Development', 'Databases'],
-  },
-  {
-    title: 'ElasticSearch',
-    competency: 3,
-    category: ['Web Development', 'Databases'],
-  },
-  {
-    title: 'PostgreSQL/SQLite3/SQL',
-    competency: 3,
-    category: ['Web Development', 'Databases', 'Languages'],
-  },
-  {
-    title: 'Data Mining',
-    competency: 3,
-    category: ['Data Science'],
-  },
-  {
-    title: 'Git',
-    competency: 4,
-    category: ['Tools'],
-  },
-  {
-    title: 'Kubernetes',
-    competency: 2,
-    category: ['Tools', 'Data Engineering'],
-  },
-  {
-    title: 'Firebase',
-    competency: 2,
-    category: ['Tools', 'Web Development'],
-  },
-  {
-    title: 'Numpy',
-    competency: 5,
-    category: ['Data Science', 'Data Engineering', 'Python'],
-  },
-  {
-    title: 'Tensorflow + Keras',
-    competency: 5,
-    category: ['Data Science', 'Python'],
-  },
-  {
-    title: 'Jupyter',
-    competency: 5,
-    category: ['Data Science', 'Python'],
-  },
-  {
-    title: 'HTML + SASS/SCSS/CSS',
-    competency: 3,
-    category: ['Web Development', 'Languages'],
-  },
-  {
-    title: 'Python',
-    competency: 5,
-    category: ['Languages', 'Python'],
-  },
-  {
-    title: 'C++',
-    competency: 4,
-    category: ['Languages'],
-  },
-  {
-    title: 'MATLAB',
-    competency: 2,
-    category: ['Languages'],
-  },
-  {
-    title: 'R (Not a fan)',
-    competency: 1,
-    category: ['Languages'],
-  },
-  {
-    title: 'Data Visualization',
-    competency: 5,
-    category: ['Data Science', 'Python'],
-  },
-  {
-    title: 'GraphQL',
-    competency: 4,
-    category: ['Web Development', 'Databases'],
-  },
-  {
-    title: 'Pandas',
-    competency: 3,
-    category: ['Data Engineering', 'Data Science', 'Python'],
-  },
-  {
-    title: 'Matplotlib',
-    competency: 5,
-    category: ['Data Engineering', 'Data Science', 'Python'],
-  },
-  {
-    title: 'Scikit-Learn',
-    competency: 5,
-    category: ['Data Engineering', 'Data Science', 'Python'],
-  },
-  {
-    title: 'Spark',
-    competency: 2,
-    category: ['Data Engineering', 'Data Science'],
-  },
-  {
-    title: 'PyTorch',
-    competency: 4,
-    category: ['Data Engineering', 'Data Science', 'Python'],
-  },
-  {
-    title: 'Java',
-    competency: 5,
-    category: ['Languages'],
-  },
-  {
-    title: 'Android (Java + Kotlin)',
-    competency: 4,
-    category: ['Languages'],
-  },
-  {
-    title: 'Swift',
-    competency: 5,
-    category: ['Languages'],
-  },
-  {
-    title: 'Swift UI',
-    competency: 5,
-    category: ['Tools', 'Languages'],
-  },
-  {
-    title: 'UI Kit',
-    competency: 3,
-    category: ['Tools', 'Languages'],
-  },
-  {
-    title: 'Sketch',
-    competency: 2,
-    category: ['Tools'],
-  },
-  {
-    title: 'Figma',
-    competency: 2,
-    category: ['Tools'],
-  },
-  {
-    title: 'Serverless',
-    competency: 4,
-    category: ['Tools', 'Web Development'],
-  },
-  {
-    title: 'Lua',
-    competency: 3,
-    category: ['Languages'],
-  },
-  {
-    title: 'C',
-    competency: 4,
-    category: ['Languages'],
-  },
-  {
-    title: 'Computer Vision',
-    competency: 5,
-    category: ['Concepts'],
-  },
-  {
-    title: 'Deep Learning',
-    competency: 4,
-    category: ['Concepts'],
-  },
-  {
-    title: 'Reinforcement Learning',
-    competency: 4,
-    category: ['Concepts'],
-  },
-  {
-    title: 'High-performance Computing (MPI, OMP, SIMD, SSE, AVX, etc.)',
-    competency: 5,
-    category: ['Concepts'],
-  },
-  {
-    title: 'SLAM',
-    competency: 4,
-    category: ['Concepts'],
-  },
-  {
-    title: 'PyDrake',
-    competency: 3,
-    category: ['Tools'],
-  },
-  {
-    title: 'ROS',
-    competency: 3,
-    category: ['Tools'],
-  },
+  // Languages
+  { title: 'Python', competency: 5, category: ['Languages', 'Data Science'] },
+  { title: 'C++', competency: 5, category: ['Languages', 'High-Performance Computing'] },
+  { title: 'Swift', competency: 5, category: ['Languages', 'iOS Development'] },
+  { title: 'Java', competency: 5, category: ['Languages'] },
+  { title: 'Kotlin', competency: 4, category: ['Languages', 'Android Development'] },
+  { title: 'C', competency: 4, category: ['Languages'] },
+  { title: 'Lua', competency: 3, category: ['Languages'] },
+  { title: 'MATLAB', competency: 2, category: ['Languages'] },
+  { title: 'R (Not a fan)', competency: 1, category: ['Languages'] },
+  
+  // ML & AI
+  { title: 'Deep Learning', competency: 5, category: ['Concepts', 'AI'] },
+  { title: 'Computer Vision', competency: 5, category: ['Concepts', 'AI'] },
+  { title: 'Reinforcement Learning', competency: 4, category: ['Concepts', 'AI'] },
+  { title: 'Generative AI (Diffusion Models, GANs, VAEs)', competency: 5, category: ['AI', 'Generative Models'] },
+  { title: 'Scikit-Learn', competency: 5, category: ['Data Science', 'ML Frameworks'] },
+  { title: 'PyTorch', competency: 5, category: ['Data Science', 'ML Frameworks'] },
+  { title: 'TensorFlow + Keras', competency: 5, category: ['Data Science', 'ML Frameworks'] },
+  { title: 'Data Mining', competency: 5, category: ['Data Science'] },
+  { title: 'Natural Language Processing', competency: 4, category: ['AI', 'Data Science'] },
+
+  // Perception & Robotics
+  { title: 'SLAM', competency: 5, category: ['Self-Driving Cars', 'Perception', 'AI'] },
+  { title: 'Sensor Fusion (Lidar, Radar, Cameras)', competency: 5, category: ['Self-Driving Cars', 'Perception'] },
+  { title: 'ROS', competency: 4, category: ['Robotics', 'Perception'] },
+  { title: 'PyDrake', competency: 3, category: ['Robotics', 'Perception'] },
+
+  // Data Engineering & HPC
+  { title: 'PostgreSQL/SQLite3/SQL', competency: 4, category: ['Databases', 'Data Engineering'] },
+  { title: 'DynamoDB', competency: 4, category: ['Databases'] },
+  { title: 'ElasticSearch', competency: 3, category: ['Databases'] },
+  { title: 'GraphQL', competency: 4, category: ['Databases'] },
+  { title: 'Spark', competency: 3, category: ['Data Engineering'] },
+  { title: 'High-performance Computing (MPI, SIMD, SSE, AVX)', competency: 5, category: ['HPC', 'Parallel Computing'] },
+
+  // System Architecture & Deployment
+  { title: 'Amazon Web Services', competency: 4, category: ['Cloud', 'Web Development'] },
+  { title: 'Hugging Face', competency: 4, category: ['Cloud', 'Web Development'] },
+  { title: 'Vercel', competency: 3, category: ['Cloud', 'Web Development'] },
+  { title: 'Supabase', competency: 3, category: ['Cloud', 'Web Development'] },
+  { title: 'Serverless', competency: 4, category: ['Cloud', 'Web Development'] },
+  { title: 'MLOps (MLflow, Weights & Biases, TFX)', competency: 4, category: ['ML Engineering', 'DevOps'] },
+
+  // WebRTC & Real-Time Systems
+  { title: 'WebRTC (SDP, ICE, STUN/TURN)', competency: 5, category: ['Real-Time Systems', 'Networking'] },
+  { title: 'Video Processing & Encoding (FFmpeg, H.264, AV1)', competency: 4, category: ['Multimedia Processing', 'Networking'] },
+
+  // iOS & Frontend Development
+  { title: 'SwiftUI', competency: 5, category: ['iOS Development'] },
+  { title: 'UIKit', competency: 3, category: ['iOS Development'] },
+  { title: 'Firebase', competency: 3, category: ['Mobile Development'] },
+  { title: 'JavaScript', competency: 3, category: ['Web Development'] },
+  { title: 'Node.js', competency: 3, category: ['Web Development'] },
+  { title: 'Next.js', competency: 3, category: ['Web Development'] },
+  { title: 'React', competency: 3, category: ['Web Development'] },
+
+  // Tools & Misc
+  { title: 'Git', competency: 5, category: ['Tools'] },
+  { title: 'Bash', competency: 4, category: ['Tools'] },
+  { title: 'Jupyter', competency: 5, category: ['Tools'] },
+  { title: 'Figma', competency: 3, category: ['Tools'] },
+  { title: 'Matplotlib', competency: 5, category: ['Visualization', 'Python'] },
+  { title: 'Data Visualization (D3.js, Plotly)', competency: 4, category: ['Visualization', 'Data Science'] },
+
+  // Leadership & Research
+  { title: 'Leadership', competency: 5, category: ['Soft Skills'] },
+  { title: 'Technical Writing (Research Papers, Patents)', competency: 5, category: ['Soft Skills'] },
+  { title: 'Mentorship & Team Building', competency: 5, category: ['Soft Skills'] },
+  { title: 'Public Speaking & Technical Presentations', competency: 5, category: ['Soft Skills'] },
 ].map((skill) => ({ ...skill, category: skill.category.sort() }));
 
 // this is a list of colors that I like. The length should be == to the
