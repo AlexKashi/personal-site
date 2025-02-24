@@ -5,8 +5,8 @@ const positions = [
     link: 'https://www.lucidmotors.com/',
     daterange: 'May 2022 - Present',
     points: [
-      'Led the development of the next-generation native mobile app, introducing previously unachievable features and'
-      + ' enhanced performance, completed ahead of schedule, and raised the App Store rating by 0.2 points.',
+      'Led the development of the next-generation native mobile app, introducing previously unachievable features, '
+      + 'enhanced performance, completed ahead of schedule, and raised the App Store rating by 0.2 points.',
       'Designed a passive entry system using Bluetooth and location APIs, enhancing reliability and user convenience.',
       'Integrated an interactive 3D model, elevating aesthetics and identified as the most liked new feature by customers.',
       'Reported directly to the Senior VP of Digital to align development with strategic initiatives.',
