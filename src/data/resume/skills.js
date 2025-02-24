@@ -3,30 +3,30 @@
 
 const skills = [
   // Languages
-  { title: 'Python', competency: 5, category: ['Languages', 'Data Science'] },
+  { title: 'Python', competency: 5, category: ['Languages', 'Machine Learning', 'Data Science'] },
   { title: 'C++', competency: 5, category: ['Languages', 'High-Performance Computing'] },
-  { title: 'Swift', competency: 5, category: ['Languages', 'iOS Development'] },
+  { title: 'Swift', competency: 5, category: ['Languages', 'iOS'] },
   { title: 'Java', competency: 5, category: ['Languages'] },
-  { title: 'Kotlin', competency: 4, category: ['Languages', 'Android Development'] },
+  { title: 'Kotlin', competency: 4, category: ['Languages', 'Android'] },
   { title: 'C', competency: 4, category: ['Languages'] },
   { title: 'Lua', competency: 3, category: ['Languages'] },
   { title: 'MATLAB', competency: 2, category: ['Languages'] },
   { title: 'R (Not a fan)', competency: 1, category: ['Languages'] },
-  
-  // ML & AI
-  { title: 'Deep Learning', competency: 5, category: ['Concepts', 'AI'] },
-  { title: 'Computer Vision', competency: 5, category: ['Concepts', 'AI'] },
-  { title: 'Reinforcement Learning', competency: 4, category: ['Concepts', 'AI'] },
-  { title: 'Generative AI (Diffusion Models, GANs, VAEs)', competency: 5, category: ['AI', 'Generative Models'] },
-  { title: 'Scikit-Learn', competency: 5, category: ['Data Science', 'ML Frameworks'] },
-  { title: 'PyTorch', competency: 5, category: ['Data Science', 'ML Frameworks'] },
-  { title: 'TensorFlow + Keras', competency: 5, category: ['Data Science', 'ML Frameworks'] },
+
+  // Machine Learning
+  { title: 'Deep Learning', competency: 5, category: ['Concepts', 'Machine Learning'] },
+  { title: 'Computer Vision', competency: 5, category: ['Concepts', 'Machine Learning'] },
+  { title: 'Reinforcement Learning', competency: 4, category: ['Concepts', 'Machine Learning'] },
+  { title: 'Generative AI (Diffusion Models, GANs, VAEs)', competency: 5, category: ['Machine Learning', 'Generative Models'] },
+  { title: 'Scikit-Learn', competency: 5, category: ['Data Science', 'Machine Learning'] },
+  { title: 'PyTorch', competency: 5, category: ['Data Science', 'Machine Learning'] },
+  { title: 'TensorFlow + Keras', competency: 5, category: ['Data Science', 'Machine Learning'] },
   { title: 'Data Mining', competency: 5, category: ['Data Science'] },
-  { title: 'Natural Language Processing', competency: 4, category: ['AI', 'Data Science'] },
+  { title: 'Natural Language Processing', competency: 4, category: ['Machine Learning', 'Data Science'] },
 
   // Perception & Robotics
-  { title: 'SLAM', competency: 5, category: ['Self-Driving Cars', 'Perception', 'AI'] },
-  { title: 'Sensor Fusion (Lidar, Radar, Cameras)', competency: 5, category: ['Self-Driving Cars', 'Perception'] },
+  { title: 'SLAM', competency: 5, category: ['Perception', 'Machine Learning'] },
+  { title: 'Sensor Fusion (Lidar, Radar, Cameras)', competency: 5, category: ['Perception'] },
   { title: 'ROS', competency: 4, category: ['Robotics', 'Perception'] },
   { title: 'PyDrake', competency: 3, category: ['Robotics', 'Perception'] },
 
@@ -36,28 +36,28 @@ const skills = [
   { title: 'ElasticSearch', competency: 3, category: ['Databases'] },
   { title: 'GraphQL', competency: 4, category: ['Databases'] },
   { title: 'Spark', competency: 3, category: ['Data Engineering'] },
-  { title: 'High-performance Computing (MPI, SIMD, SSE, AVX)', competency: 5, category: ['HPC', 'Parallel Computing'] },
+  { title: 'High-performance Computing (MPI, SIMD, SSE, AVX)', competency: 5, category: ['High-Performance Computing', 'Parallel Computing'] },
 
   // System Architecture & Deployment
-  { title: 'Amazon Web Services', competency: 4, category: ['Cloud', 'Web Development'] },
-  { title: 'Hugging Face', competency: 4, category: ['Cloud', 'Web Development'] },
-  { title: 'Vercel', competency: 3, category: ['Cloud', 'Web Development'] },
-  { title: 'Supabase', competency: 3, category: ['Cloud', 'Web Development'] },
-  { title: 'Serverless', competency: 4, category: ['Cloud', 'Web Development'] },
-  { title: 'MLOps (MLflow, Weights & Biases, TFX)', competency: 4, category: ['ML Engineering', 'DevOps'] },
+  { title: 'Amazon Web Services', competency: 4, category: ['Cloud'] },
+  { title: 'Hugging Face', competency: 4, category: ['Cloud'] },
+  { title: 'Vercel', competency: 3, category: ['Cloud'] },
+  { title: 'Supabase', competency: 3, category: ['Cloud'] },
+  { title: 'Serverless', competency: 4, category: ['Cloud'] },
+  { title: 'MLOps (MLflow, Weights & Biases, TFX)', competency: 4, category: ['Machine Learning', 'DevOps'] },
 
   // WebRTC & Real-Time Systems
   { title: 'WebRTC (SDP, ICE, STUN/TURN)', competency: 5, category: ['Real-Time Systems', 'Networking'] },
   { title: 'Video Processing & Encoding (FFmpeg, H.264, AV1)', competency: 4, category: ['Multimedia Processing', 'Networking'] },
 
   // iOS & Frontend Development
-  { title: 'SwiftUI', competency: 5, category: ['iOS Development'] },
-  { title: 'UIKit', competency: 3, category: ['iOS Development'] },
-  { title: 'Firebase', competency: 3, category: ['Mobile Development'] },
-  { title: 'JavaScript', competency: 3, category: ['Web Development'] },
-  { title: 'Node.js', competency: 3, category: ['Web Development'] },
-  { title: 'Next.js', competency: 3, category: ['Web Development'] },
-  { title: 'React', competency: 3, category: ['Web Development'] },
+  { title: 'SwiftUI', competency: 5, category: ['iOS'] },
+  { title: 'UIKit', competency: 3, category: ['iOS'] },
+  { title: 'Firebase', competency: 3, category: ['Mobile'] },
+  { title: 'JavaScript', competency: 3, category: ['Web'] },
+  { title: 'Node.js', competency: 3, category: ['Web Dev'] },
+  { title: 'Next.js', competency: 3, category: ['Web Dev'] },
+  { title: 'React', competency: 3, category: ['Web Dev'] },
 
   // Tools & Misc
   { title: 'Git', competency: 5, category: ['Tools'] },
