@@ -46,7 +46,7 @@ I build things that push the boundaries of **AI, perception systems, and mobile 
 - Llamas
 - Cats
 
-# Travel / Geography
+# Travel
 - USA 🇺🇸
 - Mexico 🇲🇽
 - Costa Rica 🇨🇷
