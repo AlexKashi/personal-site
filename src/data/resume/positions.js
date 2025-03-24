@@ -18,7 +18,7 @@ const positions = [
     link: 'https://www.lucidmotors.com/',
     daterange: 'May 2022 - Dec 2023',
     points: [
-      'Led rewrite from Flutter to SwiftUI, integrating native features like 3D Models (Scene Kit),' 
+      'Led rewrite from Flutter to SwiftUI, integrating native features like 3D Models (Scene Kit),'
       + ' Live Activities, Siri, widgets, and Apple Watch support to enable vehicle access, monitoring,'
       + ' and remote control via mobile.',
       'Reported directly to the Senior VP of Digital to align development with strategic initiatives.',
@@ -83,7 +83,7 @@ const positions = [
       'Built gaze-tracking system using deep learning and CNNs achieving 93% accuracy (Zspace).',
       'Built an interpreter translating human-readable code to machine instructions (Mux Wiring).',
     ],
-  }
+  },
 ];
 
 export default positions;
