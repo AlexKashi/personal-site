@@ -28,7 +28,7 @@ const data = [
     date: '2022-12-10',
     desc:
       'We developed custom models to understand the historical trends of key economic indicators in Kenya such as Gross County Product (GCP), '
-      + 'sector-level GCP, education Level, and population, all on a county level. We presented the results in an interactive model '
+      + 'sector-level GCP, education Level, and population, all on a county level. We presented the results to Microsoft in an interactive model '
       + 'to drive actionable insights.',
   },
   {
