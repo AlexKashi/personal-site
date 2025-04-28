@@ -1,7 +1,7 @@
 const positions = [
   {
     company: 'Lucid Motors',
-    position: 'Staff Engineer — iOS & ML Perception',
+    position: 'Staff Engineer - iOS & ML Perception',
     link: 'https://lucidmotors.com/',
     daterange: 'May 2022 - Present',
     points: [
